@@ -1,0 +1,20 @@
+Execute the below code and write your description in txt file
+
+console.log(typeof(1));
+Output:number
+console.log(typeof(1.1));
+Output:number
+console.log(typeof('1.1'));
+Output:string
+console.log(typeof(true));
+Output:boolean
+console.log(typeof(null));
+Output:object
+console.log(typeof(undefined));
+Output:undefined
+console.log(typeof([]));
+Output:object
+console.log(typeof({}));
+Output:object
+console.log(typeof(NaN));
+Output:number
